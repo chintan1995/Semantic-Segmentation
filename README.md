@@ -40,6 +40,6 @@ https://www.dropbox.com/s/cok7zvnqukm8fok/data.zip
         * label: the type of the object
         * polygon: a list of two element lists, representing the coordinates of the polygon
         
-* Implementing the CANET architecture based on this paper https://arxiv.org/pdf/2002.12041.pdf
+* Implementing the CANET architecture based on this paper https://arxiv.org/abs/2002.12041
 <br>
 <img src='https://i.imgur.com/prH3Mno.png' width="600">
